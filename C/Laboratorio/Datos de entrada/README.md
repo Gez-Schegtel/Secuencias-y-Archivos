@@ -1,1 +1,0 @@
-Los archivos de [Emisiones](co-emissions-per-capita.csv) fueron descargados de [ourworldindata.org](https://ourworldindata.org/grapher/co-emissions-per-capita?time=latest). Vamos a procesar estos datos para dejar solamente desde 1990 hasta el 2022 **de los países de América**.
